@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/OS-CentOS%206.5-green.svg)
 
-Code for the paper "[Reflectance-guided, contrast-accumulated histogram equalization](https://www.researchgate.net/publication/341083911_Reflectance-guided_contrast-accumulated_histogram_equalization)" published in ICASSP 2020.
+Code for the paper "[Reflectance-guided, contrast-accumulated histogram equalization](https://arxiv.org/abs/2209.06405)" published in ICASSP 2020.
 
 * In this paper, we have proposed a histogram equalization-based image enhancement method that adapts to the data-dependent requirements of brightness enhancement and improves visibility of details without losing global contrast.
 
